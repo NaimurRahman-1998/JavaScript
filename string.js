@@ -15,6 +15,9 @@ const c = new String("bangladesh")
 const d = "   asdasd    "
 
 console.log(d.trim())
+
+
+console.log(c.split(""))
 /* when we want to access the properties of object we use dot notation.
     something.some
 

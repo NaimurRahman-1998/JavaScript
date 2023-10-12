@@ -36,3 +36,8 @@ const d = "   asdasd    "
 
 console.log(d.trim()) // returns = 'asdasd'
 ```
+# split
+
+```
+console.log(c.split("" , " "  , __))
+```
