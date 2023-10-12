@@ -7,10 +7,14 @@ const b = "bangladesh"
 
 const c = new String("bangladesh")
 
-console.log(typeof(a) , typeof(b), typeof(c))
-console.log(c.length)
-console.log(b.length)
+// console.log(typeof(a) , typeof(b), typeof(c))
+// console.log(c.length)
+// console.log(b.length)
 
+
+const d = "   asdasd    "
+
+console.log(d.trim())
 /* when we want to access the properties of object we use dot notation.
     something.some
 

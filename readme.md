@@ -18,3 +18,21 @@ console.log(typeof(a) , typeof(b), typeof(c))
 console.log(c.length)
 console.log(b.length)
 ```
+
+# Slice
+
+```
+const a = "123456789"
+
+console.log(a.slice(4,7)); // 567
+
+
+```
+
+# Trim 
+
+```
+const d = "   asdasd    "
+
+console.log(d.trim()) // returns = 'asdasd'
+```
