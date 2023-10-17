@@ -26,5 +26,8 @@ result = 200
 
 # Objects cannot be compared
 
-### Arrays are Objects
+# Arrays are Objects
 ### To solve this problem ECMAScript 5 (JavaScript 2009) defined a new method Array.isArray()
+
+### when using const array = [];
+### array as a whole cannot be changed , but the elements inside the array can be changed even after using const
