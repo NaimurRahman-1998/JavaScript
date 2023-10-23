@@ -31,3 +31,18 @@ result = 200
 
 ### when using const array = [];
 ### array as a whole cannot be changed , but the elements inside the array can be changed even after using const
+
+# Data Types
+### A primitive value is a value that has no properties or methods.
+JavaScript defines 7 types of primitive data types:
+
+## Examples
+2. string
+3. number
+4. boolean
+5. null
+6. undefined
+7. symbol
+8. bigint
+
+Primitive values are immutable (they are hardcoded and cannot be changed).
