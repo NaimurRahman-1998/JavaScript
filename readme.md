@@ -46,3 +46,6 @@ JavaScript defines 7 types of primitive data types:
 8. bigint
 
 Primitive values are immutable (they are hardcoded and cannot be changed).
+
+# async-await
+async is a "keyword" in js. when ever async is used in a function, it returns promise(resolve,rejected)
